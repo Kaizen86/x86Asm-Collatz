@@ -2,7 +2,7 @@
 # x86 Assembly - Collatz
 
 ## What's this?
-This is a simple implementation of an algororithm to traverse a Collatz Conjecture with a starting number defined in the source code. Ideally the program would be able to accept user input for an arbitrary starting point, but that would be quite complicated to handle since I need to start really managing memory at that point.
+This is a simple implementation of an algorithm to traverse a Collatz Conjecture with a starting number defined in the source code. Ideally the program would be able to accept user input for an arbitrary starting point, but that would be quite complicated to handle since I need to start really managing memory at that point.
 
 ## The Collatz what-now?
 The rules for the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) are simple:
