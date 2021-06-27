@@ -23,8 +23,8 @@ The following software packages are required to compile the program:
 
 * NASM
 * binutils
- * gdb (Used if debugging)
- * ld
+  * gdb (Used for debugging)
+  * ld
 
 Running the `run.sh` build script will run the NASM assembler and linker, then execute the binary automatically.
 Supplying the `-d` parameter will attach GDB to the binary for debugging purposes.
