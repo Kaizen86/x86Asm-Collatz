@@ -12,7 +12,7 @@ The rules for the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_con
 * If it's odd, multiply it by 3 then add 1
 * Repeat until you reach 1
 
-Presently, there is no known upper bound for these rules. It seems to apply to all natural numbers, up to infinity. That's why it's called a conjecture; there is no known disproof for that yet.
+Presently, there is no known number that does not eventually lead to 1. It seems to apply to all natural numbers, up to infinity. That's why it's called a conjecture; there is no known disproof for that yet.
 
 ## Ok but why Assembly?
 This purpose of this project was to exercise my knowledge of programming in Assembly for Intel CPUs. I hadn't done anything like this before, so it seemed worthwhile to grasp how a program could be expressed as instructions native to the hardware.
