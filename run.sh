@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Make output folder if it doesn't exist
 [ ! -d "bin" ] && mkdir bin
